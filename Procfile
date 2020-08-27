@@ -1,1 +1,1 @@
-web: gunicorn Weathermap_Deployed:server
+web: gunicorn weathermap_deployed:server
